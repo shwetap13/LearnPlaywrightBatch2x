@@ -21,6 +21,18 @@ LearnPlaywright/
 │   ├── 08_Comments.js                    # Comment types and examples
 │   └── VS_Code_Keyboard_shortcuts_windows.md  # Windows VS Code keyboard shortcuts reference
 │
+├── Chapter_04_Javascript_Concepts/ # Variables, scope, functions, and hoisting
+│   ├── 09_var_let_const.js        # Understanding var, let, and const
+│   ├── 10_functions.js            # Function declarations and expressions
+│   ├── 11_var_explained.js        # Deep dive into var behavior
+│   ├── 12_let_people_like.js      # Why developers prefer let
+│   └── 13_const_explained.js      # Const and immutability
+│
+├── 14_var_functionscope.js        # Variable scope within functions
+├── 15_let_scope.js                # Block scope with let
+├── 16_Hoisting.js                 # JavaScript hoisting behavior
+├── 17_hoisting_fn.js              # Function hoisting examples
+│
 └── README.md (this file)
 ```
 
@@ -77,6 +89,22 @@ Master identifier naming conventions, rules, and comments.
   - JSDoc documentation
 - `VS_Code_Keyboard_shortcuts_windows.md` - Quick reference for VS Code shortcuts on Windows
 
+### Chapter 4: Variables, Scope, Functions & Hoisting
+Understand variable declarations, scoping rules, function behavior, and JavaScript hoisting.
+
+**Chapter Files:**
+- `09_var_let_const.js` - Comparison of var, let, and const declarations
+- `10_functions.js` - Function declarations, expressions, and arrow functions
+- `11_var_explained.js` - Detailed behavior of var and function scope
+- `12_let_people_like.js` - Why let is preferred over var
+- `13_const_explained.js` - Const declaration and immutability concepts
+
+**Root Level Files (Advanced Topics):**
+- `14_var_functionscope.js` - Variable scope within functions
+- `15_let_scope.js` - Block scope with let statements
+- `16_Hoisting.js` - Hoisting behavior with variables
+- `17_hoisting_fn.js` - Function hoisting examples
+
 ## 🔧 How to Run Examples
 
 Each file can be executed directly using Node.js:
@@ -113,9 +141,11 @@ See [VS_Code_Keyboard_shortcuts_windows.md](Chapter_03_Identifier_literals/VS_Co
 
 ## 🎯 Learning Path
 
-1. **Start:** Chapter_01_Basics - Verify your setup
-2. **Foundation:** Chapter_02_Javascript_concepts - Learn the basics
+1. **Start:** Chapter_01_Basics - Verify your setup and learn JavaScript fundamentals
+2. **Foundation:** Chapter_02_Javascript_concepts - Core JavaScript concepts
 3. **Best Practices:** Chapter_03_Identifier_literals - Master naming conventions and code comments
+4. **Advanced Fundamentals:** Chapter_04_Javascript_Concepts - Variables, scope, functions, and hoisting
+5. **Deep Dive:** Root-level files (14-17) - Advanced scope and hoisting examples
 
 ## 💡 Tips
 
@@ -139,4 +169,4 @@ This is a learning repository. Feel free to use, modify, and share.
 
 **Happy Learning!** 🎓
 
-Last updated: May 13, 2026
+Last updated: May 18, 2026
