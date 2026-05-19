@@ -32,6 +32,15 @@ LearnPlaywright/
 │   ├── 16_Hoisting.js                   # JavaScript hoisting behavior
 │   └── 17_hoisting_fn.js                # Function hoisting examples
 │
+├── Chapter_05_Literals/                 # Literals and literal types
+│   ├── 22_Literals.js                   # Introduction to literals (string, boolean, number, null, undefined)
+│   ├── 23_null_undefined.js             # Difference between null and undefined
+│   ├── 24_null.js                       # Examples of null and undefined in practice
+│   ├── 25_Literals_All.js               # All literal types overview
+│   ├── 26_Literal_Number_all.js         # All JavaScript number types (decimal, hex, octal, binary, BigInt, etc.)
+│   ├── 28_Template_Literals.js          # Template literals and interpolation
+│   └── 29_Backtick_single_double.js     # Difference between backticks, single quotes, and double quotes
+│
 └── README.md (this file)
 ```
 
@@ -102,6 +111,27 @@ Understand variable declarations, scoping rules, function behavior, and JavaScri
 - `16_Hoisting.js` - Hoisting behavior with variables
 - `17_hoisting_fn.js` - Function hoisting examples
 
+### Chapter 5: Literals
+Master JavaScript literals including strings, numbers, null, undefined, and template literals.
+
+**Files:**
+- `22_Literals.js` - Introduction to all literal types (string, boolean, number, null, undefined)
+- `23_null_undefined.js` - Clear explanation and difference between null and undefined with practical examples
+- `24_null.js` - In-depth examples of null and undefined behavior, function returns, object properties
+- `25_Literals_All.js` - Overview of all literal types with hexadecimal and octal examples
+- `26_Literal_Number_all.js` - Comprehensive guide to all JavaScript number types:
+  - Decimal integers
+  - Floating-point numbers
+  - Scientific notation (e.g., `1e6`, `2.5e-4`)
+  - Hexadecimal literals (`0x1A`)
+  - Octal literals (`0o755`)
+  - Binary literals (`0b1010`)
+  - Numeric separators for readability (`8_200_000_000`)
+  - Special values (`Infinity`, `-Infinity`, `NaN`)
+  - BigInt literals (`9007199254740993n`)
+- `28_Template_Literals.js` - Template literals with variable interpolation
+- `29_Backtick_single_double.js` - Difference between backticks (`` ` ``), single quotes (`'`), and double quotes (`"`)
+
 ## 🔧 How to Run Examples
 
 Each file can be executed directly using Node.js:
@@ -142,6 +172,7 @@ See [VS_Code_Keyboard_shortcuts_windows.md](Chapter_03_Identifier_literals/VS_Co
 2. **Foundation:** Chapter_02_Javascript_concepts - Core JavaScript concepts
 3. **Best Practices:** Chapter_03_Identifier_literals - Master naming conventions and code comments
 4. **Advanced Fundamentals:** Chapter_04_Javascript_Concepts - Variables, scope, functions, and hoisting
+5. **Literals & Types:** Chapter_05_Literals - Master all JavaScript literal types, number types, and string variations
 
 ## 💡 Tips
 
@@ -165,4 +196,4 @@ This is a learning repository. Feel free to use, modify, and share.
 
 **Happy Learning!** 🎓
 
-Last updated: May 18, 2026
+Last updated: May 19, 2026
