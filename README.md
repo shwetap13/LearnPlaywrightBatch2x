@@ -41,6 +41,15 @@ LearnPlaywright/
 │   ├── 28_Template_Literals.js          # Template literals and interpolation
 │   └── 29_Backtick_single_double.js     # Difference between backticks, single quotes, and double quotes
 │
+├── Chapter_06_double_tripple_equal/     # Operators and comparison
+│   ├── 30_Operators.js                  # Introduction to JavaScript operators
+│   ├── 31_Arithmatic.js                 # Arithmetic operators (+, -, *, /)
+│   ├── 32_modulus_Op.js                 # Modulus operator (%)
+│   ├── 33_Expo_Op.js                    # Exponentiation operator (**)
+│   ├── 34_IQ.js                         # Operator IQ / practice exercises
+│   ├── 35_Comparision_Op.js             # Comparison operators (<, >, <=, >=)
+│   └── 36_Comparision_Strict_loose.js   # Strict (===) vs loose (==) equality
+│
 └── README.md (this file)
 ```
 
@@ -132,6 +141,20 @@ Master JavaScript literals including strings, numbers, null, undefined, and temp
 - `28_Template_Literals.js` - Template literals with variable interpolation
 - `29_Backtick_single_double.js` - Difference between backticks (`` ` ``), single quotes (`'`), and double quotes (`"`)
 
+### Chapter 6: Operators & Comparisons
+Learn JavaScript operators and master the critical difference between strict and loose equality.
+
+**Files:**
+- `30_Operators.js` - Introduction to JavaScript operators
+- `31_Arithmatic.js` - Arithmetic operators: `+`, `-`, `*`, `/`
+- `32_modulus_Op.js` - Modulus operator `%` (remainder after division)
+- `33_Expo_Op.js` - Exponentiation operator `**` (e.g., `2 ** 3` = 8)
+- `34_IQ.js` - Operator practice exercises
+- `35_Comparision_Op.js` - Comparison operators: `<`, `>`, `<=`, `>=`
+- `36_Comparision_Strict_loose.js` - Strict equality (`===`) vs loose equality (`==`):
+  - `==` performs type coercion before comparing
+  - `===` checks both value and type (recommended)
+
 ## 🔧 How to Run Examples
 
 Each file can be executed directly using Node.js:
@@ -173,6 +196,7 @@ See [VS_Code_Keyboard_shortcuts_windows.md](Chapter_03_Identifier_literals/VS_Co
 3. **Best Practices:** Chapter_03_Identifier_literals - Master naming conventions and code comments
 4. **Advanced Fundamentals:** Chapter_04_Javascript_Concepts - Variables, scope, functions, and hoisting
 5. **Literals & Types:** Chapter_05_Literals - Master all JavaScript literal types, number types, and string variations
+6. **Operators & Comparisons:** Chapter_06_double_tripple_equal - Arithmetic, modulus, exponentiation, and strict vs loose equality
 
 ## 💡 Tips
 
@@ -196,4 +220,4 @@ This is a learning repository. Feel free to use, modify, and share.
 
 **Happy Learning!** 🎓
 
-Last updated: May 19, 2026
+Last updated: May 20, 2026
