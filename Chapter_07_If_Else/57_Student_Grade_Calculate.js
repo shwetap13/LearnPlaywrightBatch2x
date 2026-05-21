@@ -1,0 +1,13 @@
+let marks = 75;
+
+if (marks >= 90) {
+    console.log("Grade: A");
+} else if (89 <= marks && marks >= 80) {
+    console.log("Grade: B");
+} else if (79 <= marks && marks >= 70) {
+    console.log("Grade: C");
+} else if (69 <= marks && marks >= 60) {
+    console.log("Grade: D");
+} else if (marks < 60) {
+    console.log("Fail");
+}
