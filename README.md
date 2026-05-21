@@ -93,6 +93,40 @@ node Chapter_08_Switch_Statement/67_IQ4.js
 - `readline` examples.
 - `prompt-sync` usage examples.
 
+## File Index (Chapters 07-09)
+
+### Chapter_07_If_Else
+
+- `48_IF_ELSE.js`
+- `49_if_elseif_else.js`
+- `50_Real_IF_Else.js`
+- `51_API_IF_ELSE.js`
+- `52_IQ_IF_ELSE.js`
+- `53_IF_ELSE_real.js`
+- `54_IQ.js`
+- `55_IE.js`
+- `56_IQ_Even_Odd.js`
+- `57_Student_Grade_Calculate.js`
+- `58_Leap_year_check.js`
+
+### Chapter_08_Switch_Statement
+
+- `59_Switch.js`
+- `60_No_Break.js`
+- `61_Default.js`
+- `62_Real_Time_Example.js`
+- `63_Switch_Group.js`
+- `64_IQ.js`
+- `65_IQ2.js`
+- `66_IQ3.js`
+- `67_IQ4.js`
+
+### Chapter_09_UserInput
+
+- `68_USer_Input.js`
+- `69_Node_readline.js`
+- `70_prompt sync.js`
+
 ## Learning Path
 
 1. Start from Chapter 01 and run each file in sequence.
