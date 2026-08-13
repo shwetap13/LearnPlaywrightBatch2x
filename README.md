@@ -15,6 +15,9 @@ Current folders in this workspace:
 - `Chapter_07_If_Else` - Conditional statements and logic exercises
 - `Chapter_08_Switch_Statement` - Switch-case concepts and examples
 - `Chapter_09_UserInput` - User input with `readline` and `prompt-sync`
+- `Chapter_10_Loops` - For, while, do-while loops and practice exercises
+- `Chapter_11_Arrays` - Array creation, access, modification, and searching
+- `Coding_Cha_1` - Coding challenge practice
 
 ## Quick Start
 
@@ -93,7 +96,25 @@ node Chapter_08_Switch_Statement/67_IQ4.js
 - `readline` examples.
 - `prompt-sync` usage examples.
 
-## File Index (Chapters 07-09)
+### Chapter 10 - Loops
+
+- `for`, `while`, `do-while` loop syntax and usage.
+- `for...of`, `for...in`, `forEach` loop variants.
+- Loop practice and interview-style questions.
+- Task files: FizzBuzz, triangle pattern, user input loop.
+
+### Chapter 11 - Arrays
+
+- Array creation and access.
+- Adding and removing elements (`push`, `pop`, `splice`, `slice`).
+- Array searching methods.
+- Real-world array examples.
+
+### Coding_Cha_1
+
+- Coding challenge practice exercises.
+
+## File Index (Chapters 07-11)
 
 ### Chapter_07_If_Else
 
@@ -127,13 +148,42 @@ node Chapter_08_Switch_Statement/67_IQ4.js
 - `69_Node_readline.js`
 - `70_prompt sync.js`
 
+### Chapter_10_Loops
+
+- `71_For_loop.js`
+- `73_For_Loop3.js`
+- `74_IQ.js`
+- `75_For_OF_IN_EACH.js`
+- `76_While_Loop.js`
+- `77_Do_While.js`
+- `78_Do_while.js`
+- `79_IQ.js`
+- `80_IQ.js`
+- `81.IQ.js`
+- `82_IQ.js`
+- `Task_22thMayFizzBuzz.js`
+- `Task_22thMay_Triangle.js`
+- `Task_22th_May_User_input.js`
+
+### Chapter_11_Arrays
+
+- `83_Arrays.js`
+- `84_Arrays.js`
+- `85_Access_Array.js`
+- `86_Arrays_Remove.js`
+- `87_Adding_Remove2.js`
+- `88_Real_Examples.js`
+- `89_Searching.js`
+
 ## Learning Path
 
 1. Start from Chapter 01 and run each file in sequence.
 2. Complete Chapters 02-04 to build JavaScript foundations.
 3. Continue with Chapters 05-06 for literals and operators.
 4. Practice control flow in Chapters 07-08.
-5. Finish with user input programs in Chapter 09.
+5. Practice loops in Chapter 10 (for, while, do-while, FizzBuzz tasks).
+6. Learn arrays in Chapter 11 (create, access, modify, search).
+7. Challenge yourself with coding exercises in Coding_Cha_1.
 
 ## Useful References
 
@@ -145,4 +195,4 @@ node Chapter_08_Switch_Statement/67_IQ4.js
 
 Learning repository for practice and experimentation.
 
-Last updated: May 22, 2026
+Last updated: August 13, 2026
