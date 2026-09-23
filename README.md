@@ -1,6 +1,13 @@
-# LearnPlaywright - JavaScript Learning Repository
+# LearnPlaywright - JavaScript Fundamentals Practice Repository
 
-Structured practice repository for JavaScript fundamentals, syntax, operators, control flow, and basic user input programs.
+Structured practice repository for learning JavaScript fundamentals before moving into broader automation topics. The current workspace focuses on syntax, operators, control flow, loops, user input, and arrays using small runnable Node.js examples.
+
+## Current Coverage
+
+- 11 topic-based chapters covering core JavaScript basics.
+- Small, single-purpose example files for quick practice.
+- Console-based Node.js scripts that are easy to run and inspect.
+- Practice-oriented folders for interview-style and coding challenge questions.
 
 ## Project Structure
 
@@ -189,10 +196,11 @@ node Chapter_08_Switch_Statement/67_IQ4.js
 
 - [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [Node.js Documentation](https://nodejs.org/docs/)
-- [Playwright Documentation](https://playwright.dev/)
+- [JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+- [Playwright Documentation](https://playwright.dev/) for later automation learning
 
 ## License
 
 Learning repository for practice and experimentation.
 
-Last updated: August 13, 2026
+Last updated: August 19, 2026
