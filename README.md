@@ -47,6 +47,7 @@ Use Node to run a file from any chapter:
 
 ```bash
 node Chapter_01_Basics/01_Basics.js
+node Chapter_04_Javascript_Concepts/15_let_scope.js
 node Chapter_06_double_tripple_equal/36_Comparision_Strict_loose.js
 node Chapter_08_Switch_Statement/67_IQ4.js
 ```
@@ -72,6 +73,7 @@ node Chapter_08_Switch_Statement/67_IQ4.js
 - Full progression of `var`, `let`, `const` behavior.
 - Function basics and hoisting examples.
 - Scope differences with practical snippets.
+- Includes block-scope examples such as `15_let_scope.js` for local vs global `let` behavior.
 
 ### Chapter 05 - Literals
 
@@ -203,4 +205,4 @@ node Chapter_08_Switch_Statement/67_IQ4.js
 
 Learning repository for practice and experimentation.
 
-Last updated: August 19, 2026
+Last updated: September 25, 2026
